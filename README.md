@@ -1,2 +1,2 @@
 # webapp
-A web app created using HTML and CSS and Bootstrap 3.
+A web app created using HTML, CSS, and Bootstrap 3.
